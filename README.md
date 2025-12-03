@@ -49,9 +49,6 @@ Usage :
 
 Run the training script or notebook to train the model.
 
-
-Folder for model outputs
-
-Author
+Author :
 
 This project is created by MD Rufsan Jani Shanto.
