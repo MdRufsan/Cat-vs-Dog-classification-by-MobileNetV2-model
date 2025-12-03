@@ -33,7 +33,7 @@ The base model is unfrozen after layer number one hundred and fine tuned using a
 Training Results:
 
 The initial training achieved an accuracy above ninety six percent and a validation accuracy above ninety eight percent.
-After fine tuning the final model achieved an accuracy of approximately ninety eight percent.
+After fine tuning the final model achieved an accuracy of approximately 98% .
 
 Evaluation :
 
